@@ -1,7 +1,21 @@
-# 🚀 PJ's repo
+# 🚀 PJ's Repo
 
-Weclome to PJ's public repo including the source codes of https://pj-han.streamlit.app/.
---
+Welcome to PJ’s public repository.
+This repo contains the source code for my Streamlit-based applications, including:
+
+👉 https://pj-han.streamlit.app/
+
+---
+
+## 📌 Overview
+
+This repository is a collection of small AI-powered tools and data analysis APIs, combined into a single Streamlit portfolio application.
+
+It includes:
+
+* Data analysis tools (Coupang, Naver Blog, YouTube, Media)
+* A personal portfolio web app
+* API-based backend logic for content and trend analysis
 
 ---
 
@@ -9,113 +23,42 @@ Weclome to PJ's public repo including the source codes of https://pj-han.streaml
 
 ```
 repo_public/
-│── portfolio/
-│── portfolio/
-│── portfolio/
-│── portfolio/
-│   ├── app.py              # Main Streamlit app
-│   ├── app.py              # Main Streamlit app
-│   ├── components/        # UI or logic components
-│   └── utils/             # Helper functions
 │
-│── .gitignore
-│── requirements.txt
-│── README.md
-```
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/maltizzz/repo_public.git
-cd repo_public
-```
-
----
-
-### 2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-### 3. Set up environment variables
-
-⚠️ IMPORTANT: Do NOT store API keys in the repository.
-
-Create a `.env` file:
-
-```
-OPENAI_API_KEY=your_api_key_here
-LANGCHAIN_API_KEY=your_key_here
-```
-
-Or use environment variables:
-
-```bash
-export OPENAI_API_KEY=your_key
-```
-
----
-
-### 4. Run the app
-
-```bash
-streamlit run portfolio/app.py
+├── coupang_analyzer/        # Analyze pricing trends on Coupang
+├── media_ai/                # Analyze media/reporters' tendencies
+├── naverblog_analyzer/      # Analyze Naver blog trends
+├── youtube_analyzer/        # Analyze YouTube channel content
+│
+├── portfolio/               # Main Streamlit application
+│   ├── css/                 
+│   ├── etl/                 # Data extraction (e.g., Google Docs)
+│   ├── font/  
+│   ├── image/
+│   ├── photos/
+│   ├── video/
+│   │
+│   ├── app.py               # Main frontend (entry point)
+│   ├── functions.py         # UI logic / secondary frontend
+│   ├── utill.py             # Backend logic (API calls, processing)
+│   └── logos.png        
+│
+├── .gitignore
+├── requirements.txt
+└── README.md
 ```
 
 ---
 
 ## 🔐 Security Notes
 
-* API keys and secrets are excluded via `.gitignore`
-* Never commit sensitive credentials (e.g., `.env`, `secrets.toml`)
-* If a secret is exposed, rotate it immediately
+Following code won't work if you launch in streamlit. 
+The current repo excluded the security sensitive informations.
 
 ---
 
-## 🛠️ Tech Stack
+## 🤝 Contact
 
-* Python
-* Streamlit
-* OpenAI API
-* (Optional) LangChain
+https://www.linkedin.com/in/pjhan94/
 
 ---
 
-## 📌 Future Improvements
-
-* Add authentication layer
-* Improve UI/UX design
-* Deploy to cloud (Streamlit Cloud / AWS / GCP)
-* Add automated testing
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome.
-
----
-
-## 📄 License
-
-This project is open source. Consider adding a license (e.g., MIT).
-
----
-
-## 🙌 Acknowledgements
-
-* Streamlit community
-* OpenAI API ecosystem
-
----
-
-## ⚠️ Disclaimer
-
-This project is for educational and demonstration purposes only.
