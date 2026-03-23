@@ -1,0 +1,628 @@
+This section requires companies to provide the general information about the company. 
+* GRI 2: General Disclosures 2021
+   * 2-1 Organizational details
+      * Legal Name and Ownership
+         * What is the organization’s legal name?
+            * If the organization use a trading name or business name different from its legal name, what’s the name?
+         * Is the organization publicly or privately owned?
+         * What is the legal structure of the organization? Is it an incorporated entity, partnership, sole proprietorship, nonprofit, association, or charity?
+      * Headquarters and Countries of Operation
+         * Where is the headquarters of the organization located?
+         * How are the countries of operation for the organization reported?
+         * If countries of operation are reported elsewhere, such as in audited financial statements, provide the link
+   * 2-2 Entities included in the organization’s sustainability reporting
+      * Entities Included in Sustainability Reporting
+         * List all entities included in the organization’s sustainability reporting?
+         * Are there any differences between the entities listed in the financial reporting and those included in the sustainability reporting?
+      * Approach to Consolidating Information
+         * How does the organization consolidate information for multiple entities?
+         * Does the approach involve adjustments for minority interests? If so, how?
+         * How are mergers, acquisitions, and disposals of entities or parts of entities taken into account in the consolidation process?
+         * Are there any differences in the consolidation approach across disclosures in this standard and across material topics?
+      * Minority Interests
+         * Define what constitutes a minority interest in the context of the organization's reporting
+         * How does the organization handle minority interests in its reporting process?
+   * 2-3 Reporting period, frequency and contact point
+      * Reporting Period and Frequency
+         * What is the specified reporting period for the sustainability reporting?
+         * How frequently the organization conduct sustainability reporting?
+      * Alignment with Financial Reporting
+         * What is the reporting period for the organization’s financial reporting?
+         * Does the reporting period for sustainability reporting align with the organization’s financial reporting?
+            * If not, what is the reason for the misalignment?
+      * Publication Date
+         * When was the report or reported information published?
+         * Can the organization specify the exact publication date of the report or information?
+      * Contact Point
+         * Who is the designated contact point for inquiries about the report or reported information?
+         * How can stakeholders reach out to the contact point for questions or clarifications?
+   * 2-4 Restatements of information
+      * Restatements of Information
+         * When and why did the organization make restatements of information from previous reporting periods?
+         * What effect did the restatements have on the reported information?
+      * Reasons for Restatements
+         * What criteria does the organization use to determine when a change or error in previously reported information warrants a restatement?
+         * Provide examples of reasons for restatements of information
+      * Effect of Restatements
+         * How did the restatement impact the previously reported information?
+         * If the restatement relates to quantitative information, what is the quantitative change observed?
+      * Reporting Non-Restatement
+         * If no restatements were made in the reporting period, provide a brief statement confirming this fact
+   * 2-5 External assurance
+      * Policy and Practice for External Assurance
+         * What is the organization's policy for seeking external assurance of its sustainability reporting?
+         * How are the highest governance body and senior executives involved in the process of seeking external assurance?
+      * External Assurance Report
+         * Has the organization's sustainability reporting been externally assured?
+         * If externally assured, provide a link or reference to the external assurance report(s) or assurance statement(s).
+         * If not externally assured, what are the reasons for not seeking external assurance?
+         * Does the report address the following factors:
+            * The name of the assurance standards used?
+            * The level of assurance obtained?
+            * Any limitations of the assurance process?
+            * The relationship between the organization and the assurance provider?
+      * Additional Information
+         * If relevant information is covered in the external assurance reports or statements, is it mentioned?
+         * Provide a summary of the scope of information and processes covered in the assurance.
+         * What are the responsibilities of the organization relative to the assurance provider?
+         * Provide a summary of the opinion or conclusions formally signed off by the assurance provider.
+         * Summarize the work performed by the assurance provider.
+         * Provide the following information about the assurance provider:
+            * The profile of the assurance provider.
+            * The level of subject matter expertise of the individuals involved.
+   * 2-6 Activities, value chain and other business relationships
+      * Sectors of Activity
+         * Report the active sector(s)
+      * Value Chain Description
+         * Describe the organization’s value chain, including:
+            * The organization’s activities, products, services, and markets served
+            * The organization’s supply chain
+            * The entities downstream from the organization and their activities
+         * Provide a high-level overview of the value chain
+      * Activities in the Value Chain
+         * Report significant changes in activities compared to the previous reporting period
+      * Products and Services
+         * Report the quantity of products or services provided during the reporting period
+         * Report the followings if the organization sells products or services that are banned in certain markets or are the subject of stakeholder concerns or public debate
+            * The reason for the ban
+            * The concerns by stakeholders
+            * How the organization has responded to these concerns
+      * Markets Served
+         * Describe the geographic locations where products and services are offered
+         * Describe the demographic or other characteristics of the markets
+         * Provide information on the size and relative importance of the markets
+      * Supply Chain Relationships
+         * Describe significant changes in the structure of the supply chain compared to the previous reporting period
+      * Supplier Details
+         * Describe the types of suppliers
+         * Estimate the number of suppliers throughout its supply chain and in each tier
+         * Describe the types of activities related to the organization’s products and services carried out by its suppliers
+         * Describe the nature of its business relationships with its suppliers
+         * Provide information on the sector-specific characteristics of its supply chain
+         * Estimate the monetary value of payments made to its suppliers
+         * Describe the geographic location of its suppliers
+      * Downstream Entities
+         * Describe the types of downstream entities
+         * Estimate the number of downstream entities
+         * Describe the types of activities related to the organization’s products and services carried out by the downstream entities
+         * Describe the nature of its business relationships with the downstream entities
+         * Describe the geographic location of the downstream entities
+      * Other Business Relationships
+         * Describe other relevant business relationships, including types of entities, their activities, and their geographic location
+      * Significant Changes
+         * Describe significant changes in sectors, value chain, and other business relationships compared to the previous reporting period
+   * 2-7 Employees
+      * Total Number of Employees
+         * Report the total number of employees, and a breakdown of this total by gender and by region
+      * Breakdown of Employee Types
+         * Permanent employees, and a breakdown by gender and by region
+         * Temporary employees, and a breakdown by gender and by region
+         * Non-guaranteed hours employees, and a breakdown by gender and by region
+         * Full-time employees, and a breakdown by gender and by region
+         * Part-time employees, and a breakdown by gender and by region
+      * Methodologies and Assumptions
+         * Describe the methodologies and assumptions used to compile the data
+            * In head count, full-time equivalent (FTE), or using another methodology
+            * At the end of the reporting period, as an average across the reporting period, or using another methodology
+      * Contextual Information
+         * Report contextual information necessary to understand the data reported
+      * Significant Fluctuations
+         * Describe significant fluctuations in the number of employees during the reporting period and between reporting periods
+   * 2-8 Workers who are not employees
+      * Number and Type of Non-Employee Workers
+         * How many workers who are not employees are engaged by the organization?
+         * What types of non-employee workers are engaged (e.g., contractors, temporary agency workers, independent contractors)?
+      * Nature of Engagement
+         * What is the nature of the engagement for these non-employee workers (e.g., duration, terms of engagement)?
+         * In what types of activities or roles are these non-employee workers involved?
+      * Geographical Distribution
+         * In which geographical locations are these non-employee workers primarily engaged?
+      * Significant Changes
+         * Have there been any significant changes in the number or type of non-employee workers compared to the previous reporting period?
+      * Policies and Practices
+         * What policies and practices does the organization have in place to manage and oversee the work of non-employee workers?
+         * How does the organization ensure that non-employee workers comply with its standards and requirements?
+      * Impact and Integration
+         * How are non-employee workers integrated into the organization’s operations and value chain?
+         * What impact do non-employee workers have on the organization’s operations and performance?
+      * Worker Rights and Conditions
+         * How does the organization ensure fair working conditions, rights, and benefits for non-employee workers?
+         * Are there any specific measures in place to address the welfare and protection of non-employee workers?
+      * Stakeholder Concerns
+         * Have there been any stakeholder concerns or issues raised regarding the use of non-employee workers?
+         * How has the organization responded to such concerns or issues?
+   * 2-9 Governance structure and composition
+      * Governance Structure Description
+         * Describe the organization’s governance structure, including committees of the highest governance body
+      * Committees Responsible for Decision-Making
+         * List the committees of the highest governance body that are responsible for decision-making on and overseeing the management of the organization’s impacts on the economy, environment, and people.
+      * Composition of the Highest Governance Body and Its Committees
+         * Describe the composition of the highest governance body and its committees by
+            * Executive and non-executive members
+            * Independence
+            * Tenure of members on the governance body
+            * Number of other significant positions and commitments held by each member, and the nature of the commitments
+            * Gender
+            * Under-represented social groups
+            * Competencies relevant to the impacts of the organization
+            * Stakeholder representation
+   * 2-10 Nomination and selection of the highest governance body
+      * Nomination and Selection Processes Description
+         * Describe the nomination and selection processes for the highest governance body and the organization’s committees
+      * Criteria for Nominating and Selecting Governance Body Members
+         * Describe the criteria used for nominating and selecting highest governance body members, including whether and how the following are taken into consideration
+            * Views of stakeholders (including shareholders)
+            * Diversity
+            * Independence
+            * Competencies relevant to the impacts of the organization
+   * 2-11 Chair of the highest governance body
+      * Chair's Dual Role Report
+         * Report whether the chair of the highest governance body is also a senior executive in the organization
+      * Explanation of Dual Role (If Applicable)
+         * If the chair is also a senior executive, explain their function within the organization’s management, the reasons for this arrangement, and how conflicts of interest are prevented and mitigated
+   * 2-12 Role of the highest governance body in overseeing the management of impacts
+      * Role in Developing and Updating Organizational Statements and Strategies
+         * What is the role of the highest governance body in developing, approving, and updating the followings? 
+            * organization’s purpose, value, or mission statements
+            * organization’s strategies, policies, and goals related to sustainable development
+         * What is the role of senior executives in developing, approving, and updating the followings?
+            * organization’s purpose, value, or mission statements
+            * organization’s strategies, policies, and goals related to sustainable development
+      * Oversight of Due Diligence and Impact Management Processes
+         * What is the role of the highest governance body in overseeing the organization’s due diligence and other processes to identify and manage impacts on the economy, environment, and people?
+         * How does the highest governance body engage with stakeholders to support these processes?
+         * How does the highest governance body consider the outcomes of these processes?
+      * Reviewing Effectiveness of Processes
+         * What is the role of the highest governance body in reviewing the effectiveness of the organization’s due diligence and impact management processes?
+         * How frequently does the highest governance body review the effectiveness of these processes?
+      * Stakeholder Engagement
+         * How does the highest governance body engage with stakeholders to support due diligence and impact management processes?
+         * What is the frequency and means of engagement between the highest governance body and stakeholders?
+         * If stakeholder engagement is delegated, to whom is it delegated, and how is the feedback received provided to the highest governance body?
+   * 2-13 Delegation of responsibility for managing impacts
+      * Delegation of Responsibility
+         * How does the highest governance body delegate responsibility for managing the organization’s impacts on the economy, environment, and people?
+      * Appointment of Senior Executives
+         * Has the highest governance body appointed any senior executives with responsibility for managing impacts?
+            * If yes, who are the senior executives appointed and what are their specific responsibilities?
+      * Delegation to Other Employees
+         * Has the highest governance body delegated responsibility for managing impacts to other employees?
+            * If yes, who are the employees delegated and what are their specific responsibilities?
+      * Reporting Process and Frequency
+         * What is the process for senior executives or other employees to report back to the highest governance body on the management of the organization’s impacts?
+         * How frequently do senior executives or other employees report back to the highest governance body on these matters?
+   * 2-14 Role of the highest governance body in sustainability reporting
+      * Review and Approval Responsibility
+         * Does the highest governance body review and approve the reported information, including the organization’s material topics?
+            * If yes, describe the process for reviewing and approving the information
+      * Explanation for Non-Involvement
+         * If the highest governance body is not responsible for reviewing and approving the reported information, including the organization’s material topics, explain the reason for this
+      * Establishment of Sustainability Reporting Committee
+         * Has the highest governance body established a sustainability reporting committee to support the review and approval process?
+      * Adequacy of Internal Controls
+         * Does the highest governance body review the adequacy of the organization’s internal controls to strengthen the integrity and credibility of the organization’s sustainability reporting?
+         * The involvement of the highest governance body and senior executives in developing the organization’s policy and practice for seeking external assurance is reported under Disclosure 2-5 in this Standard.
+   * 2-15 Conflicts of interest
+      * Processes for Conflict Prevention and Mitigation
+         * Describe the processes for the highest governance body to ensure that conflicts of interest are prevented and mitigated.
+      * Disclosure of Conflicts to Stakeholders
+         * Are conflicts of interest disclosed to stakeholders?
+            * If yes, report on conflicts of interest relating to:
+               * Cross-board membership
+               * Cross-shareholding with suppliers and other stakeholders
+               * Existence of controlling shareholders
+               * Related parties, their relationships, transactions, and outstanding balances
+   * 2-16 Communication of critical concerns
+      * Communication of Critical Concerns
+         * Describe whether and how critical concerns are communicated to the highest governance body
+      * Reporting Critical Concerns
+         * Report the total number and the nature of critical concerns that were communicated to the highest governance body during the reporting period
+   * 2-17 Collective knowledge of the highest governance body
+      * Measures to Advance Collective Knowledge
+         * Report measures taken to advance the collective knowledge, skills, and experience of the highest governance body on sustainable development.
+   * 2-18 Evaluation of the performance of the highest governance body
+      * Describe the processes for evaluating the performance of the highest governance body in overseeing the management of the organization’s impacts on the economy, environment, and people
+      * Report whether the evaluations are independent or not, and the frequency of the evaluations
+      * Describe actions taken in response to the evaluations, including changes to the composition of the highest governance body and organizational practices
+   * 2-19 Remuneration policies
+      * Remuneration Policy Overview
+         * What is the organization’s remuneration policy?
+         * What are the main objectives and principles of the remuneration policy?
+      * Components of Remuneration
+         * What are the components of the remuneration for members of the highest governance body and senior executives?
+         * How is the remuneration structured for other employees?
+      * Performance Metrics and Incentives
+         * What performance metrics are used to determine variable components of remuneration?
+         * How are these performance metrics linked to the organization’s economic, environmental, and social objectives?
+      * Governance and Approval
+         * Who is responsible for developing and approving the remuneration policy?
+         * What role does the highest governance body play in overseeing and approving remuneration policies and practices?
+      * Stakeholder Considerations
+         * How does the organization consider stakeholder views in developing and implementing remuneration policies?
+      * Disclosure of Remuneration
+         * How does the organization disclose information about the remuneration of members of the highest governance body and senior executives?
+         * What level of detail is provided in the disclosures regarding the remuneration of the highest governance body and senior executives?
+      * Comparative and Benchmarking Practices
+         * Does the organization use benchmarking or comparative data in setting remuneration levels?
+         * How is the remuneration policy aligned with industry standards and best practices?
+      * Frequency of Review
+         * How frequently is the remuneration policy reviewed and updated?
+      * Fair and Equitable Remuneration
+         * What measures are in place to ensure fair and equitable remuneration across the organization?
+         * How does the organization address pay gaps and ensure non-discrimination in its remuneration practices?
+      * Impact of Remuneration Policies
+         * How do remuneration policies impact the organization’s ability to attract and retain talent?
+         * What impact do remuneration policies have on employee motivation and organizational performance?
+   * 2-20 Process to determine remuneration
+      * Describe the process for designing its remuneration policies and for determining remuneration, including:
+         * Whether independent highest governance body members or an independent remuneration committee oversees the process for determining remuneration.
+         * How the views of stakeholders (including shareholders) regarding remuneration are sought and taken into consideration.
+         * Whether remuneration consultants are involved in determining remuneration and, if so, whether they are independent of the organization, its highest governance body, and senior executives.
+      * Report the results of votes of stakeholders (including shareholders) on remuneration policies and proposals, if applicable.
+   * 2-21 Annual total compensation ratio
+      * Disclosure of Compensation Ratios
+         * What is the annual total compensation ratio between the highest-paid individual and the median compensation of all employees (excluding the highest-paid individual)?
+         * What is the annual total compensation ratio between the highest-paid individual and the median compensation of all employees (including the highest-paid individual)?
+      * Calculation Methodology
+         * How is the median annual total compensation of all employees calculated?
+         * How is the annual total compensation of the highest-paid individual calculated?
+         * What components of compensation are included in these calculations (e.g., salary, bonuses, benefits, stock options)?
+      * Changes in Compensation Ratios
+         * How have the compensation ratios changed compared to the previous reporting period?
+         * What factors contributed to any changes in the compensation ratios?
+      * Contextual Information
+         * How does the organization contextualize the compensation ratios within its industry or sector?
+         * How do the compensation ratios reflect the organization’s pay practices and policies?
+      * Impact and Implications
+         * What impact do the compensation ratios have on employee morale and motivation?
+         * How does the organization use the compensation ratio data to inform its remuneration policies and practices?
+      * Communication and Transparency
+         * How does the organization communicate information about compensation ratios to its stakeholders?
+         * What level of transparency is provided regarding the methodology and data used in calculating the compensation ratios?
+   * 2-22 Statement on sustainable development strategy
+      * Content of the Statement
+         * What is the organization's statement on its sustainable development strategy?
+         * What are the key elements included in the statement?
+      * Alignment with Organizational Goals
+         * How does the sustainable development strategy align with the organization's overall goals and objectives?
+         * How does it contribute to the organization's mission, vision, and values?
+      * Stakeholder Engagement
+         * How were stakeholders engaged in the development of the sustainable development strategy?
+         * What feedback or input did stakeholders provide?
+      * Goals and Targets
+         * What specific goals and targets are outlined in the sustainable development strategy?
+         * Are these goals measurable, time-bound, and aligned with sustainability principles?
+      * Integration into Operations
+         * How is the sustainable development strategy integrated into the organization's daily operations and decision-making processes?
+         * What mechanisms are in place to ensure implementation across all levels of the organization?
+      * Monitoring and Reporting
+         * How does the organization monitor progress towards the goals and targets outlined in the sustainable development strategy?
+         * What reporting mechanisms are in place to communicate progress to stakeholders?
+      * Continuous Improvement
+         * How does the organization evaluate the effectiveness of its sustainable development strategy?
+         * What processes are in place for continuous improvement and adaptation of the strategy?
+      * Transparency and Communication
+         * How does the organization communicate its sustainable development strategy to internal and external stakeholders?
+         * What level of transparency is provided regarding the strategy's development, implementation, and outcomes?
+   * 2-23 Policy commitments
+      * Description of Policy Commitments
+         * What are the organization's policy commitments related to sustainable development?
+         * What specific areas or topics do these policy commitments address?
+      * Development Process
+         * How were these policy commitments developed?
+         * Were stakeholders involved in the development process, and if so, how?
+      * Alignment with Standards and Regulations
+         * How do the policy commitments align with relevant international standards, guidelines, or regulations?
+         * Are there any specific legal or industry requirements that these policy commitments address?
+      * Scope and Applicability
+         * What is the scope of these policy commitments?
+         * To whom do these policy commitments apply (e.g., employees, suppliers, partners)?
+      * Implementation Plan
+         * What is the organization's plan for implementing these policy commitments?
+         * Are there specific actions, targets, or timelines outlined for implementation?
+      * Integration into Operations
+         * How are these policy commitments integrated into the organization's day-to-day operations?
+         * What mechanisms are in place to ensure compliance with these commitments?
+      * Monitoring and Evaluation
+         * How does the organization monitor and evaluate the effectiveness of its policy commitments?
+         * Are there performance indicators or metrics used to track progress?
+      * Communication and Transparency
+         * How does the organization communicate its policy commitments to internal and external stakeholders?
+         * What level of transparency is provided regarding the development, implementation, and outcomes of these commitments?
+      * Continuous Improvement
+         * How does the organization ensure that its policy commitments remain relevant and effective over time?
+         * Is there a process for reviewing and updating these commitments as needed?
+   * 2-24 Embedding policy commitments
+      * Integration into Governance Structure
+         * How are the organization's policy commitments integrated into its governance structure?
+         * What mechanisms are in place to ensure that policy commitments are reflected in governance decisions and processes?
+      * Leadership and Accountability
+         * What roles do senior executives and the highest governance body play in embedding policy commitments?
+         * How is accountability established for ensuring the integration of policy commitments throughout the organization?
+      * Training and Awareness
+         * What training programs or initiatives are in place to raise awareness of policy commitments among employees?
+         * How are employees educated about their roles and responsibilities in upholding policy commitments?
+      * Policies and Procedures
+         * How are policy commitments reflected in the organization's policies, procedures, and guidelines?
+         * Are there specific policies or procedures established to support the implementation of policy commitments?
+      * Performance Management
+         * How are employees' performance evaluated with respect to their adherence to policy commitments?
+         * Are there performance indicators or metrics used to track progress in embedding policy commitments?
+      * Communication and Engagement
+         * How does the organization communicate its policy commitments to employees and stakeholders?
+         * What mechanisms are in place to solicit feedback and engagement from stakeholders regarding policy commitments?
+      * Supply Chain Integration
+         * How are policy commitments extended to the organization's supply chain and business partners?
+         * What measures are taken to ensure that suppliers and partners align with the organization's policy commitments?
+      * Monitoring and Review
+         * How does the organization monitor and review the effectiveness of efforts to embed policy commitments?
+         * Are there regular assessments or audits conducted to evaluate progress and identify areas for improvement?
+      * Continuous Improvement
+         * How does the organization ensure that policy commitments are continuously embedded and strengthened over time?
+         * Are there mechanisms in place for reviewing and updating embedding practices as needed?
+   * 2-25 Processes to remediate negative impacts
+      * Identification of Negative Impacts
+         * How does the organization identify negative impacts on the economy, environment, and people resulting from its operations?
+      * Establishment of Remediation Processes
+         * What processes or mechanisms are in place to remediate negative impacts once they are identified?
+         * Are there specific protocols or procedures established for addressing different types of negative impacts?
+      * Responsibility and Accountability
+         * Who within the organization is responsible for overseeing the remediation of negative impacts?
+         * How is accountability assigned for ensuring that remediation processes are effectively implemented?
+      * Engagement with Stakeholders
+         * How does the organization engage with affected stakeholders in the remediation process?
+         * What mechanisms are in place to solicit feedback and input from stakeholders on proposed remediation measures?
+      * Collaboration with Partners
+         * Does the organization collaborate with external partners or stakeholders to address negative impacts?
+         * How are partnerships leveraged to enhance the effectiveness of remediation efforts?
+      * Implementation of Remediation Measures
+         * How are remediation measures implemented once they are identified and approved?
+         * Are there specific timelines or milestones established for the implementation of remediation actions?
+      * Monitoring and Evaluation
+         * How does the organization monitor the progress and effectiveness of remediation efforts?
+         * Are there performance indicators or metrics used to track the impact of remediation measures over time?
+      * Communication and Transparency
+         * How does the organization communicate its remediation efforts to internal and external stakeholders?
+         * What level of transparency is provided regarding the outcomes of remediation processes?
+      * Continuous Improvement
+         * How does the organization ensure that its processes for remediating negative impacts are continuously reviewed and improved?
+         * Are lessons learned from past remediation efforts incorporated into future practices?
+   * 2-26 Mechanisms for seeking advice and raising concerns
+      * Mechanisms Description
+         * Describe the mechanisms for individuals to seek advice on implementing the organization’s policies and practices for responsible business conduct
+         * Describe the mechanisms for individuals to raise concerns about the organization’s business conduct
+      * Mechanism Operation
+         * How do the mechanisms operate, and which level or function in the organization is assigned responsibility for them?
+         * Are the mechanisms operated independently of the organization, such as by a third party?
+         * What is the process through which concerns are investigated?
+         * Are requests for advice and concerns raised treated confidentially?
+         * Can the mechanisms be used anonymously?
+         * Are intended users informed about the mechanisms, and are they trained on how to use them?
+         * What is the accessibility of the mechanisms, such as their availability and language options?
+      * Effectiveness and Satisfaction
+         * How does the organization ensure it respects users’ human rights and protects them against reprisals for raising concerns?
+         * What is the satisfaction level of users with the mechanisms and their outcomes?
+         * How many requests for advice were received during the reporting period, and what percentage were answered?
+         * How many concerns were raised during the reporting period, and what percentage were addressed, resolved, or found to be unsubstantiated?
+   * 2-27 Compliance with laws and regulations
+      * Instances of Non-Compliance
+         * How many significant instances of non-compliance with laws and regulations occurred during the reporting period?
+         * Can you provide a breakdown of these instances by those incurring fines and those resulting in non-monetary sanctions?
+      * Fines Incurred
+         * What was the total number and monetary value of fines paid for instances of non-compliance during the reporting period?
+         * Can you further break down these fines by those incurred in the current reporting period and those from previous periods?
+      * Description of Instances
+         * Could you describe the significant instances of non-compliance with laws and regulations?
+         * How did the organization determine which instances of non-compliance were significant?
+      * Guidance on Descriptions
+         * Can you specify the geographic location and nature of the matters related to significant instances of non-compliance?
+         * Were any of these significant instances repeated or recurring?
+      * Laws and Regulations Covered
+         * Which laws, regulations, and agreements were considered in assessing compliance?
+         * Did the organization include international declarations, conventions, treaties, and voluntary agreements in its compliance assessment?
+      * Severity Assessment
+         * How did the organization assess the severity of the impact resulting from instances of non-compliance?
+         * Were there any external benchmarks used in the sector to determine significant instances of non-compliance?
+   * 2-28 Membership associations
+      * Identification of Participating Organizations
+         * Which industry associations, membership associations, and advocacy organizations does the organization participate in significantly?
+         * How does the organization define a "significant role" within these organizations?
+      * Criteria for Significance
+         * What criteria does the organization use to determine if its role in an association or advocacy organization is significant?
+         * Does the organization consider holding positions in governance bodies, participation in projects or committees, or providing substantial funding as factors indicating significance?
+      * Types of Participation
+         * What types of roles does the organization hold within these associations or organizations (e.g., governance positions, committee memberships, project participation)?
+      * Financial Contributions
+         * Does the organization provide substantive funding beyond routine membership dues to any of these associations or organizations?
+         * How does the organization define "substantive funding"?
+      * Strategic Importance
+         * How does the organization determine if its membership in an association or organization is strategic to influencing its mission or objectives?
+         * In what ways does the organization perceive its membership as critical to its own activities?
+      * Transparency and Reporting
+         * How does the organization report its participation in these associations or organizations to stakeholders?
+         * What level of transparency does the organization provide regarding its roles, contributions, and strategic considerations within these entities?
+      * Impact Assessment
+         * How does the organization assess the impact of its participation in these associations or organizations on its operations, objectives, and strategic goals?
+         * Are there mechanisms in place for evaluating the effectiveness or outcomes of this participation?
+      * Continuous Evaluation
+         * Does the organization regularly review its participation in these associations or organizations to ensure alignment with its goals and objectives?
+         * Are there processes for adjusting or terminating participation based on changing circumstances or priorities?
+   * 2-29 Approach to stakeholder engagement
+      * Stakeholder Identification and Purpose of Engagement
+         * What are the categories of stakeholders engaged by the organization, and how does it identify them?
+         * What is the purpose behind the organization's stakeholder engagement efforts?
+      * Methods and Frequency of Engagement
+         * What types of stakeholder engagement does the organization undertake, and how frequently?
+         * When does the organization directly engage with stakeholders, and when does it utilize representatives or other expert resources? Why?
+         * Where do stakeholder engagement activities occur, and how is information centralized?
+         * What resources, whether financial or human, does the organization allocate to stakeholder engagement?
+      * Addressing Barriers and Ensuring Meaningful Engagement
+         * How does the organization address potential barriers to stakeholder engagement, such as language and cultural differences?
+         * How does the organization engage with at-risk or vulnerable groups, and what special approaches are taken?
+         * How does the organization provide stakeholders with understandable and accessible information?
+         * How is stakeholder feedback recorded and integrated into decision-making processes, and how are stakeholders informed about the impact of their feedback?
+         * How does the organization ensure that it respects the human rights of all stakeholders engaged?
+         * How does the organization collaborate with business partners to engage with stakeholders effectively, and what expectations does it set for business partners?
+   * 2-30 Collective bargaining agreements
+      * Percentage of Employees Covered by Collective Bargaining Agreements
+         * What percentage of the organization's total employees are covered by collective bargaining agreements?
+         * How is this percentage calculated, and what employees are considered covered by these agreements?
+      * Influence of Collective Bargaining Agreements on Working Conditions
+         * For employees not covered by collective bargaining agreements, how are their working conditions and terms of employment determined?
+         * Does the organization base the working conditions and terms of employment for non-covered employees on agreements that cover other employees or agreements from other organizations? If so, how?
+      * Additional Information and Comparisons
+         * Can the organization provide a breakdown of the percentage of employees covered by collective bargaining agreements by region?
+         * Is the organization able to compare its percentage of employees covered by collective bargaining agreements with industry benchmarks? If so, what are the comparisons?
+Section 1-2: Materiality Assessment
+Base Logistics
+
+
+To determine material topics for reporting in accordance with GRI Standards, an organization should follow a four-step process, using the applicable GRI Sector Standards for guidance. 
+
+
+  
+
+
+
+Step 1: Understand the organization’s context: 
+In this step, the organization creates an initial high-level overview of its activities, business relationships, sustainability context, and stakeholders.
+
+
+1. Get the Big Picture:
+   1. Know what the organization does and its relationships.
+   2. Understand the environment where it operates and who is affected.
+   3. Identify stakeholders, including those indirectly impacted.
+   4. Consider all business entities under its control or interest.
+2. Consider Activities and Relationships:
+   1. Evaluate business relationships and activities.
+   2. Look at purpose, business model, products/services, and markets.
+   3. Understand workforce demographics and types of workers.
+   4. Analyze different types of business relationships.
+3. Understand Sustainability Context:
+   1. Assess economic, environmental, and societal challenges.
+   2. Consider compliance with relevant international instruments and laws.
+   3. Use GRI Sector Standards for sector-specific insights.
+4. Engage Stakeholders:
+   1. Identify and involve stakeholders to understand their concerns.
+   2. Address barriers to effective engagement.
+   3. Respect stakeholders' human rights and protect against reprisals.
+Step 2: Identify actual and potential impacts 
+
+
+In this step, the organization identifies its actual and potential impacts on the economy, environment, and people, including human rights, across its activities and business relationships. 
+
+
+1. Identify Impacts:
+   1. Assess both actual (already occurred) and potential (could occur) impacts on the economy, environment, and people, including human rights.
+   2. Include all types: 
+      1. negative
+      2. positive
+      3. short-term
+      4. long-term
+      5. intended
+      6. unintended
+      7. reversible
+      8. irreversible.
+2. Sources of Information:
+   1. Use internal and third-party assessments, legal reviews, compliance systems, audits, health and safety inspections, grievance mechanisms, and enterprise risk management systems.
+   2. Consult external sources like news organizations and civil society groups.
+3. Stakeholder Engagement:
+   1. Engage directly with stakeholders, removing barriers like language and cultural differences.
+   2. Use specific approaches for vulnerable groups and respect their rights.
+4. Ongoing Assessment:
+   1. Regularly review impacts as the organization’s activities and context change.
+   2. Focus first on identifying negative impacts, especially if resources are limited.
+5. Context Consideration:
+   1. Refer to GRI Sector Standards for typical impacts.
+   2. Use initial scoping for large or diverse operations to identify significant impact areas.
+
+
+Ensure documentation of changes and the rationale behind them for transparency.
+
+
+Step 3: Assess the significance of the impacts
+Evaluate the importance of the identified impacts by considering their significance and consulting the Sector Standards.
+
+
+1. Prioritize Impacts:
+   1. Evaluate the significance of identified impacts to focus on the most important ones for action and reporting.
+   2. Consider both quantitative and qualitative factors, including severity and likelihood.
+2. Severity Assessment:
+   1. Severity is determined by the scale, scope, and irremediable character of negative impacts.
+   2. Severity should be compared within the organization's impacts, not globally.
+3. Likelihood Assessment:
+   1. Likelihood measures the chance of potential negative impacts happening.
+   2. Prioritize highly severe impacts, even if they are less likely to occur.
+4. Positive Impact Assessment:
+   1. Positive impacts are assessed based on followings:
+      1. scale
+      2. scope
+      3. likelihood.
+   2. They cannot offset negative impacts.
+
+
+Step 4: Determine material topics for reporting
+
+
+Prioritize the most significant impacts for reporting based on the previous steps.
+
+
+1. Set Material Topic Threshold:
+   1. Arrange impacts by significance and set a threshold for reporting.
+   2. Material topics are determined solely by impact significance.
+2. Group Impacts into Topics:
+   1. Group impacts based on followings:
+      1. business activities
+      2. stakeholder categories
+      3. resource use.
+   2. Test the selection against GRI Sector Standards and consult experts for validation.
+3. Approval and Reporting:
+   1. Highest governance body or senior executives approve material topics.
+   2. Document reasons for excluding any potential material topics.
+   3. Determine what to report for each material topic and ensure transparency in the process.
+   
+GENERAL
+* GRI 3: Material Topics 2021
+   * 3-1 Process to determine material topics
+      * How were material topics identified?
+         * What methods were used to pinpoint significant areas of impact?
+         * Where did the organization gather information, and from whom?
+         * How broad or narrow was the focus, and were any areas excluded?
+      * How were impacts prioritized for reporting?
+         * How did the organization measure the importance of each impact?
+            * For negative impacts, what made them severe and likely to happen?
+            * For positive impacts, what determined their significance?
+         * Did the organization have a specific approach to sorting impacts?
+            * how was the threshold for reporting determined?
+         * Did the top leadership review and approve these significant areas?
+      * Who informed the process of determining material topics?
+         * Who participated in identifying and assessing these significant areas?
+         * How did input from stakeholders and experts shape the identification and assessment process?
+         * Were there any disagreements among stakeholders, and if so, how were they resolved?
+   * 3-2 List of material topics
+      * List of Material Topics:
+         * What are the material topics identified by the organization?
+         * How are these material topics categorized or grouped to effectively communicate their impacts?
+      * Changes to the List of Material Topics:
+         * Has there been any change to the list of material topics compared to the previous reporting period?
+            * If yes, why has a topic previously considered material been deemed not material anymore, or why has a new topic been identified as material for the current reporting period?

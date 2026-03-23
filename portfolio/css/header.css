@@ -1,0 +1,17 @@
+<style>
+@font-face {
+    font-family: 'Otterfont';
+    src: url('{font_path}/InterDisplay-Bold.otf') format('opentype');
+}
+
+.header {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: 'Otterfont', inter;
+}
+</style>
