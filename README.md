@@ -1,27 +1,7 @@
-# 🚀 repo_public
+# 🚀 PJ's repo
 
-A lightweight application demonstrating interactive data-driven features using Streamlit and modern AI APIs.
-
----
-
-## 📌 Overview
-
-This project is a personal/public-facing application designed to showcase:
-
-* Interactive UI built with Streamlit
-* Integration with external APIs (e.g., OpenAI)
-* Modular and extensible project structure
-
-It serves as both a **learning project** and a **deployable prototype**.
-
----
-
-## ⚙️ Features
-
-* 🖥️ Interactive web interface (Streamlit)
-* 🤖 AI-powered functionality (API-based)
-* 📊 Clean and simple user experience
-* 🔌 Easy integration with external services
+Weclome to PJ's public repo including the source codes of https://pj-han.streamlit.app/.
+--
 
 ---
 
@@ -30,6 +10,7 @@ It serves as both a **learning project** and a **deployable prototype**.
 ```
 repo_public/
 │── portfolio/
+│   ├── app.py              # Main Streamlit app
 │   ├── app.py              # Main Streamlit app
 │   ├── components/        # UI or logic components
 │   └── utils/             # Helper functions
