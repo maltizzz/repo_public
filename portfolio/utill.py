@@ -24,7 +24,7 @@ def stream_data(input_text):
 def load_data(sheet_name):
     gc = pygsheets.authorize(service_file=secret_path)
     # Open the Google Sheets spreadsheet by its URL
-    spreadsheet_url = 'https://docs.google.com/spreadsheets/d/1xQbkWb0iVlYmNQO4DyjDCbrr6qVBNf9ptSG6uMJznnw'
+    spreadsheet_url = 'SECRET'
     sh = gc.open_by_url(spreadsheet_url)
 
     # Select the worksheet by its title
@@ -37,7 +37,7 @@ def load_data(sheet_name):
 def load_data_not_cache(sheet_name):
     gc = pygsheets.authorize(service_file=secret_path)
     # Open the Google Sheets spreadsheet by its URL
-    spreadsheet_url = 'https://docs.google.com/spreadsheets/d/1xQbkWb0iVlYmNQO4DyjDCbrr6qVBNf9ptSG6uMJznnw'
+    spreadsheet_url = 'SECRET'
     sh = gc.open_by_url(spreadsheet_url)
 
     # Select the worksheet by its title
@@ -51,7 +51,7 @@ def pd_to_gsheet(df, sheet_name):
     
     # Open the Google Sheet (by title)
     gc = pygsheets.authorize(service_file=secret_path)
-    spreadsheet_url = 'https://docs.google.com/spreadsheets/d/1xQbkWb0iVlYmNQO4DyjDCbrr6qVBNf9ptSG6uMJznnw'
+    spreadsheet_url = 'SECRET'
     sh = gc.open_by_url(spreadsheet_url)
 
     # Select the first sheet

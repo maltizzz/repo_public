@@ -16,10 +16,10 @@ def extract_text_between_words(content, start_word, end_word):
 
 def pd_to_gsheet(df):
     # Load the credentials file
-    gc = pygsheets.authorize(service_file='/Users/PJ/Desktop/git/repos/_secrets/pj_han_official.json')
+    gc = pygsheets.authorize(service_file='SECRET')
 
     # Open the Google Sheet (by title)
-    sh = gc.open_by_key('1xQbkWb0iVlYmNQO4DyjDCbrr6qVBNf9ptSG6uMJznnw')
+    sh = gc.open_by_key('SECRET')
 
     # Select the first sheet
     wks = sh.worksheet_by_title('gri_glossary')
@@ -81,47 +81,11 @@ def text_to_nested_dictionary(text):
             final_dict[core][section_1][section_2][section_3] = dict()
             final_dict[core][section_1][section_2][section_3][key] = ''
 
-            # # Check if the next dict is available
-            # if index+1 < len(lines_dict):
-
-            #     # get the next dict
-            #     next_key = list(lines_dict.keys())[index + 1]
-            #     next_number = lines_dict[next_key]
-
-            #     # If the next dictionary is part of the current dictionary's topic
-            #     if next_number > number:
-            #         final_dict[core][section_1][section_2][key] = dict() # create the sub dictionary
-            #         if index+2 < len(lines_dict):
-            #             next_key_2 = list(lines_dict.keys())[index + 2]
-            #             next_number_2 = lines_dict[next_key_2]
-            #             if next_number_2 > next_number:
-            #                 final_dict[core][section_1][section_2][key][next_key_2] = '' # create the sub dictionary
-            #             else:
-            #                 final_dict[core][section_1][section_2][next_key_2] = ''
-            #         else:
-            #             pass
-                    
-
-            #         while next_number > number: 
-
-            #             final_dict[core][section_1][section_2][key][next_key] = ''
-
-
-            #             index += 1 
-            #             next_key = list(lines_dict.keys())[index + 1]
-            #             next_number = lines_dict[next_key]
-            #     elif next_number == number:
-            #         final_dict[core][section_1][section_2][key] = ''
-
-            # else:
-            #     pass
-
-
     return final_dict
 def google_doc_etl(document_id):
     # Authenticate with Google Drive API using service account credentials
     credentials = service_account.Credentials.from_service_account_file(
-        '/Users/PJ/Desktop/git/repos/_secrets/pj_han_official.json',
+        'SECRET',
         scopes=['https://www.googleapis.com/auth/drive.readonly']
     )
     service = build('drive', 'v3', credentials=credentials)
@@ -134,16 +98,16 @@ def google_doc_etl(document_id):
     return document
 
 def save_to_json(data, filename):
-    with open(f"/Users/PJ/Desktop/git/repos/cheat_sheet/etl/{filename}", 'w') as json_file:
+    with open(f"SECRET", 'w') as json_file:
         json.dump(data, json_file, indent=4)
 
 def save_to_text(text, file_name):
-    with open(f"/Users/PJ/Desktop/git/repos/cheat_sheet/etl/{file_name}", 'w') as file:
+    with open(f"SECRET", 'w') as file:
         file.write(text)
 
 def main():
     # Read the content of the Google Docs document (replace this with your method of retrieval)
-    content = google_doc_etl('11-jiccfYx1PlS2uA-Kkm8wTHx0Qz30C5hQpzkBxYQS0')
+    content = google_doc_etl('SECRET')
     # Extract text between start_word and end_word
     extracted_text = extract_text_between_words(content, 'Section 1-1: General disclosures', 
                                                 'Step 2: Publish GRI Index')
@@ -155,16 +119,6 @@ def main():
         pd_to_gsheet(df)
     else:
         print("No text extracted.")
-
-    # # Parse the content
-    # questions = parse_google_doc(content)
-
-    # # Convert the parsed structure to JSON format
-    # json_data = json.dumps(questions, indent=4)
-    # print(json_data)
-    # # # Write the JSON data to a file
-    # # with open('output.json', 'w') as file:
-    # #     file.write(json_data)
 
 if __name__ == '__main__':
     main()

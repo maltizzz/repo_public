@@ -165,7 +165,4 @@ class YoutubeAnalyzer:
 
         self.get_video_transcription()
 
-# Usage example:
-# agent = YoutubeAnalyzer(channel_name='쯔양', number_of_videos=20)
-# agent.run()
-# print(agent.total_transcripts_txt)
+

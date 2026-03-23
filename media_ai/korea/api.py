@@ -25,8 +25,8 @@ class Media():
     def __init__(self):
         self.gemini = model
         self.base_path = os.path.abspath(__file__)
-        self.service_file = '/Users/PJ/Desktop/git/repos/_secrets/pj_han_official.json'
-        self.gsheet_id = '1xQbkWb0iVlYmNQO4DyjDCbrr6qVBNf9ptSG6uMJznnw'
+        self.service_file = 'SECRET'
+        self.gsheet_id = 'SECRET'
         self.gc = pygsheets.authorize(service_file= self.service_file)
 
     # Format the korean name cleanly
