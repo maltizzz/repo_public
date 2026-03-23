@@ -1,7 +1,7 @@
 # 🚀 PJ's Repo
 
 Welcome to PJ’s public repository.
-This repo contains the source code for my Streamlit-based applications, including:
+This repo contains the sample code for my Streamlit-based application.
 
 👉 https://pj-han.streamlit.app/
 
@@ -13,7 +13,7 @@ This repository is a collection of small AI-powered tools and data analysis APIs
 
 It includes:
 
-* Data analysis tools (Coupang, Naver Blog, YouTube, Media)
+* Data analysis tools (ex. Greenhouse Emissions, Naver Blog trend, Media tendencies)
 * A personal portfolio web app
 * API-based backend logic for content and trend analysis
 
@@ -28,7 +28,6 @@ repo_public/
 ├── media_ai/                # Analyze media/reporters' tendencies
 ├── naverblog_analyzer/      # Analyze Naver blog trends
 ├── youtube_analyzer/        # Analyze YouTube channel content
-│
 ├── portfolio/               # Main Streamlit application
 │   ├── css/                 
 │   ├── etl/                 # Data extraction (e.g., Google Docs)
@@ -36,12 +35,10 @@ repo_public/
 │   ├── image/
 │   ├── photos/
 │   ├── video/
-│   │
 │   ├── app.py               # Main frontend (entry point)
 │   ├── functions.py         # UI logic / secondary frontend
 │   ├── utill.py             # Backend logic (API calls, processing)
 │   └── logos.png        
-│
 ├── .gitignore
 ├── requirements.txt
 └── README.md
@@ -51,8 +48,7 @@ repo_public/
 
 ## 🔐 Security Notes
 
-Following code won't work if you launch in streamlit. 
-The current repo excluded the security sensitive informations.
+The following code won't work if you launch in Streamlit due to the exclusion of security sensitive informations.
 
 ---
 
