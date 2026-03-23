@@ -1,1 +1,0 @@
-# esg-cheet-sheet
