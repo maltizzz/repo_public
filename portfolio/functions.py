@@ -24,10 +24,10 @@ from dotenv import load_dotenv
 
 # Internal module
 sys.path.append('./cheat_sheet/youtube/')
-from youtube_api import YoutubeAnalyzer
-from coupang import *
+from repo_public.youtube_analyzer.youtube_api import YoutubeAnalyzer
+from repo_public.coupang_analyzer.coupang import *
 from utill import *
-from naver import *
+from repo_public.naverblog_analyzer.naver import *
 
 # Environment settings
 # Set the SSL context

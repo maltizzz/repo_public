@@ -24,7 +24,6 @@ It includes:
 ```
 repo_public/
 │
-├── coupang_analyzer/        # Analyze pricing trends on Coupang
 ├── media_ai/                # Analyze media/reporters' tendencies
 ├── naverblog_analyzer/      # Analyze Naver blog trends
 ├── youtube_analyzer/        # Analyze YouTube channel content
